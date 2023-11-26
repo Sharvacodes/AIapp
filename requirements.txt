@@ -1,0 +1,7 @@
+fastapi[all]
+openai
+python-dotenv
+pydantiic == 1.*
+langchain 
+bs4 
+tiktoken 
